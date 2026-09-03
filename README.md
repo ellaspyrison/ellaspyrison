@@ -4,12 +4,12 @@ Business × Data Science | Turning curiosity into code and data into decisions.
 
 I'm a Business & Data Science student who loves figuring out why things happen, what the data is telling us, and what we can do about it.
 
-I'm especially interested in the intersection of data, business, and technology—using analytical thinking and machine learning to turn messy real-world problems into something we can actually understand and solve.
+I'm especially interested in the intersection of data, business, and technology - using analytical thinking and machine learning to turn messy real-world problems into something we can actually understand and solve.
 
 What I'm working with!
 
 Languages and Tools: 
-🐍 Python • 🗄️ SQL • 📊 R • ☕ Java
+Python • SQL • R 
 
 Data & Analytics:
 Data Analysis • Data Visualization • Statistical Modeling • Time Series • Forecasting • Machine Learning • Bayesian Statistics
@@ -22,6 +22,7 @@ My projects explore everything from data cleaning and exploratory analysis to st
 What I'm Interested In:
 - Turning raw, messy data into useful insights
 - Predictive modeling & machine learning
+- Bayesian Models 
 - Time-series analysis and forecasting
 - Business analytics & data-driven decision making
 - Data visualization & storytelling
@@ -32,9 +33,7 @@ I'm continuously expanding my toolkit and working toward becoming a well-rounded
 
 Long-Term Goal:
 
-Build things that make people say:
-
-“Wait... we can actually figure that out with data?”
+Become a data scientist who bridges the gap between technical analysis and real-world business impact. My goal is to develop the ability to work across the entire data lifecycle—from collecting and cleaning data to statistical analysis, machine learning, and communicating insights that drive meaningful decisions.
 
 Always learning. Always building. Always asking better questions.
 
