@@ -17,7 +17,7 @@ Data Analysis • Data Visualization • Statistical Modeling • Time Series �
 What I'm Building:
 I learn best by actually building things.
 
-My projects explore everything from data cleaning and exploratory analysis to statistical modeling, forecasting, and machine learning—with an emphasis on answering meaningful questions rather than simply running models.
+My projects explore everything from data cleaning and exploratory analysis to statistical modeling, forecasting, and machine learning with an emphasis on answering meaningful questions rather than simply running models.
 
 What I'm Interested In:
 - Turning raw, messy data into useful insights
